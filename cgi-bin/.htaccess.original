@@ -1,0 +1,7 @@
+<Files awstats.pl>
+AuthUserFile /home/c247850/.statspasswd
+AuthGroupFile /dev/null
+AuthName EnterPassword
+AuthType Basic
+require user c247850
+</Files>
